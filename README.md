@@ -30,7 +30,7 @@ Through this project, I practiced:
 * CSS styling
 * Building interactive user interfaces
 
-##Live Preview
+## Live Preview
 
 https://calculator-sedaimanish.vercel.app/
 
