@@ -30,6 +30,10 @@ Through this project, I practiced:
 * CSS styling
 * Building interactive user interfaces
 
+##Live Preview
+
+https://calculator-sedaimanish.vercel.app/
+
 ## Getting Started
 
 1. Clone the repository
